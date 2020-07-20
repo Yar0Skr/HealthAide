@@ -16,8 +16,8 @@ class ComposerStaticInit3a697e5ff6588b026d59bb4ceef7b156
         '8825ede83f2f289127722d4e842cf7e8' => __DIR__ . '/..' . '/symfony/polyfill-intl-grapheme/bootstrap.php',
         '0d59ee240a4cd96ddbb4ff164fccea4d' => __DIR__ . '/..' . '/symfony/polyfill-php73/bootstrap.php',
         'b6b991a57620e2fb6b2f66f03fe9ddc2' => __DIR__ . '/..' . '/symfony/string/Resources/functions.php',
-        '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
         '2cffec82183ee1cea088009cef9a6fc3' => __DIR__ . '/..' . '/ezyang/htmlpurifier/library/HTMLPurifier.composer.php',
+        '7b11c4dc42b3b3023073cb14e519683c' => __DIR__ . '/..' . '/ralouphie/getallheaders/src/getallheaders.php',
         'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
         '023d27dca8066ef29e6739335ea73bad' => __DIR__ . '/..' . '/symfony/polyfill-php70/bootstrap.php',
         '25072dd6e2470089de65ae7bf11d3109' => __DIR__ . '/..' . '/symfony/polyfill-php72/bootstrap.php',
@@ -45,6 +45,7 @@ class ComposerStaticInit3a697e5ff6588b026d59bb4ceef7b156
         ),
         'p' => 
         array (
+            'purrweb\\heroku\\' => 15,
             'phpDocumentor\\Reflection\\' => 25,
         ),
         'k' => 
@@ -153,6 +154,10 @@ class ComposerStaticInit3a697e5ff6588b026d59bb4ceef7b156
         'toriphes\\lazyload\\' => 
         array (
             0 => __DIR__ . '/..' . '/toriphes/yii2-widget-lazyload',
+        ),
+        'purrweb\\heroku\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/purrweb/yii2-heroku',
         ),
         'phpDocumentor\\Reflection\\' => 
         array (
