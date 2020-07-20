@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://healthaide.org/</loc>
+  <lastmod>2020-01-09T14:02:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/index.html</loc>
+  <lastmod>2020-01-09T14:02:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/index_es.html</loc>
+  <lastmod>2020-01-09T14:02:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/files/mltc_guide_e.pdf</loc>
+  <lastmod>2019-12-05T16:28:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/cdpap.html</loc>
+  <lastmod>2020-01-09T14:02:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/aboutus.html</loc>
+  <lastmod>2020-01-09T14:02:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/privacy_policy.html</loc>
+  <lastmod>2020-01-09T14:02:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/ndpolicy.html</loc>
+  <lastmod>2020-01-09T14:02:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/forms.html</loc>
+  <lastmod>2020-01-09T14:07:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/communityresources.html</loc>
+  <lastmod>2020-01-09T14:02:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/communitydirectory.html</loc>
+  <lastmod>2020-01-09T14:02:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/files/Chinese.pdf</loc>
+  <lastmod>2020-01-06T15:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/files/Korean.pdf</loc>
+  <lastmod>2020-01-06T15:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/files/Haitian-Creole.pdf</loc>
+  <lastmod>2020-01-06T15:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://healthaide.org/files/myemergencyplan_english.pdf</loc>
+  <lastmod>2020-01-07T17:03:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
