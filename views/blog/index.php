@@ -41,7 +41,7 @@ $this->params['breadcrumbs'][] = $this->title;
                         foreach ($blogs as $blog){ ?>
                             <article class="blog_item">
                                 <div class="blog_item_img">
-                                    <img class="card-img rounded-0" src="uploads/Blog/images/<?=$blog->image?>" alt="">
+                                    <img class="card-img rounded-0" src="/web/uploads/Blog/images/<?=$blog->image?>" alt="">
                                     <a class="blog_item_date">
                                         <h3><?=date('M j Y g:i A', strtotime( $blog->created_at))?></h3>
                                     </a>

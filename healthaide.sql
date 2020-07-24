@@ -13,8 +13,8 @@
 
 
 -- Дамп структуры базы данных healthaide
-CREATE DATABASE IF NOT EXISTS `healthaide` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_bin */;
-USE `healthaide`;
+
+USE `heroku_9c5b35dbae65fcb`;
 
 -- Дамп структуры для таблица healthaide.blog
 CREATE TABLE IF NOT EXISTS `blog` (

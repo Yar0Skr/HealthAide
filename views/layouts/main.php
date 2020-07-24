@@ -130,7 +130,7 @@ cdpap home care"/>
                     <div class="col-xl-3 col-lg-2">
                         <div class="logo">
                             <a href="<?=Url::to('/')?>">
-                                <img style="width: 200px" src="/img/logo.png" alt="">
+                                <img style="width: 200px" src="/web/img/logo.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -175,7 +175,7 @@ cdpap home care"/>
                     <div class="footer_widget">
                         <div class="footer_logo">
                             <a href="#">
-                                <img style="width: 200px;" src="/img/logo.png" alt="">
+                                <img style="width: 200px;" src="/web/img/logo.png" alt="">
                             </a>
                         </div>
                         <p>

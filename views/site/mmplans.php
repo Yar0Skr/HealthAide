@@ -19,17 +19,17 @@ $this->title = 'Health Aide Inc - Managed Medicaid Plans';
             Managed Long-Term Care Plans (MLTCP) provide long-term care services (like home health and nursing home care) and ancillary and ambulatory services (including dentistry, and medical equipment), and receives payment from Medicaid. Members get services from their primary care physicians and inpatient hospital services using their Medicaid and/or Medicare cards.
         </h4>
         </br></br>
-        <a href=https://centershealthcare.com/centersplan/plans/mltc/><img src="/images/cphl.jpg" class=w-100 alt></a>
+        <a href=https://centershealthcare.com/centersplan/plans/mltc/><img src="/web/images/cphl.jpg" class=w-100 alt></a>
         </br></br></br>
-        <a href=https://agewellnewyork.com/><img src="/images/agewell.jpg" class=w-100 alt></a>
+        <a href=https://agewellnewyork.com/><img src="/web/images/agewell.jpg" class=w-100 alt></a>
         </br></br></br>
-        <a href=https://www.fideliscare.org/><img src="/images/fidealscare.jpg" class=w-100 alt></a>
+        <a href=https://www.fideliscare.org/><img src="/web/images/fidealscare.jpg" class=w-100 alt></a>
         </br></br></br>
-        <section style="background-color: #274299" id=footer-t class="py-5 bg-b"><a href=https://www.elderplan.org/><img src="/images/homefirst.png" class=w-100 alt></a></section>
+        <section style="background-color: #274299" id=footer-t class="py-5 bg-b"><a href=https://www.elderplan.org/><img src="/web/images/homefirst.png" class=w-100 alt></a></section>
         </br></br></br>
-        <a href=https://www.integraplan.org/><img src="/images/integracare.jpg" class=w-100 alt></a>
+        <a href=https://www.integraplan.org/><img src="/web/images/integracare.jpg" class=w-100 alt></a>
         </br></br></br>
-        <a href=https://www.villagecare.org/><img src="/images/villagecare.jpg" class=w-100 alt></a>
+        <a href=https://www.villagecare.org/><img src="/web/images/villagecare.jpg" class=w-100 alt></a>
     </div>
 </section>
 <!-- <link rel="stylesheet" href="https://cdn.rawgit.com/stevenmonson/googleReviews/master/google-places.css"> <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> <script src="https://cdn.jsdelivr.net/gh/stevenmonson/googleReviews@6e8f0d794393ec657dab69eb1421f3a60add23ef/google-places.js"></script>  <script src="google_place_api.js"></script> <script>jQuery(document).ready(function($){$("#google-reviews").googlePlaces({placeId: 'ChIJtemRg_pbwokRKCpQq6jd7Kk' , render: ['reviews'] , min_rating: 4 , max_rows:4});}); </script>-->

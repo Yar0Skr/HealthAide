@@ -20,7 +20,7 @@ $this->params['breadcrumbs'][] = $this->title;
             <div class="col-lg-12 posts-list">
                 <div class="single-post">
                     <div align="center" class="feature-img">
-                        <img class="img-fluid" src="/uploads/Blog/images/<?=$blog->image?>" alt=" <?=$blog->alt_tag?>">
+                        <img class="img-fluid" src="/web/uploads/Blog/images/<?=$blog->image?>" alt=" <?=$blog->alt_tag?>">
                     </div>
                     <div class="blog_details">
                         <h1><?=$blog->header?>
@@ -42,7 +42,7 @@ $this->params['breadcrumbs'][] = $this->title;
                                  <div class="thumb">
                                         <a href="<?=Url::toRoute('blog/'.$prevBlog->url_name)?>">
                                             <img style="width: 100px; background: white" class="img-fluid"
-                                                 src="/uploads/Blog/images/<?=$prevBlog->image ? $prevBlog->image : 'blog_placeholder.png'?>" alt="">
+                                                 src="/web/uploads/Blog/images/<?=$prevBlog->image ? $prevBlog->image : 'blog_placeholder.png'?>" alt="">
                                         </a>
                                     </div>
                                     <div class="arrow">
@@ -74,7 +74,7 @@ $this->params['breadcrumbs'][] = $this->title;
                                     <div class="thumb">
                                         <a href="<?=Url::toRoute('blog/'.$nextBlog->url_name)?>">
                                             <img style="width: 100px; background: white" class="img-fluid"
-                                                 src="/uploads/Blog/images/<?=$nextBlog->image ? $nextBlog->image : 'blog_placeholder.png'?>" alt="">
+                                                 src="/web/uploads/Blog/images/<?=$nextBlog->image ? $nextBlog->image : 'blog_placeholder.png'?>" alt="">
                                         </a>
                                     </div>
                             <?php } ?>
