@@ -254,8 +254,8 @@ cdpap home care"/>
 <script type=text/javascript>
 
 </script>
-<link href='widget.css' rel=stylesheet>
-<script src = 'widget.js'type = text/javascript></script>
+<link href='/web/widget.css' rel=stylesheet>
+<script src = '/web/widget.js'type = text/javascript></script>
 
 <script type=text/javascript > Calendly.initBadgeWidget({
         url: "https://calendly.com/healthaide",
@@ -265,9 +265,9 @@ cdpap home care"/>
         branding: false
     });
 </script>
-<script src='js/jquery-3.3.1.min.js'></script>
-<script src=js/bootstrap.min.js></script>
-<script data-cfasync="false" src="form-submision-handler.js"></script>
+<script src='/web/js/jquery-3.3.1.min.js'></script>
+<script src='/web/js/bootstrap.min.js'></script>
+<script data-cfasync="false" src="/web/js/form-submision-handler.js"></script>
 <script>
     function openNav() {
     document.getElementById("mySidenav").style.width = "250px"
