@@ -143,7 +143,7 @@ cdpap home care"/>
                                     <li><a href="<?= Url::to('/site/forms')?>">Forms</a></li>
                                     <li><a href="<?= Url::to('/site/faq')?>">FAQ</a></li>
                                     <li><a href="<?= Url::to('/site/mmplans')?>">MMPlans</a></li>
-                                    <li><a href="#">Locations<i class="ti-angle-down"></i></a>
+                                    <li><a href="#">Locations<i class="fa fa-angle-down"></i></a>
                                         <ul class="submenu">
                                             <?php foreach ($locations as $location){ ?>
                                             <li><a href="<?= Url::toRoute('/location/'.$location->url)?>"><?= $location->name?></a></li>
@@ -185,7 +185,7 @@ cdpap home care"/>
                             <ul>
                                 <li>
                                     <a href="https://www.facebook.com/healthaide/">
-                                        <i class="ti-facebook"></i>
+                                        <i class="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
