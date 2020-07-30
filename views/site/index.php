@@ -16,9 +16,8 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
             <div class="row">
                 <div class="col-xl-12">
                     <div class="slider_text ">
-                        <h3> <span>Health Aide</span></h3>
-                        <p style="color: #000000">Nobody can take better care of you than a person who loves you. <br>
-                            At Health Aide Inc. we make sure you are taken care of by someone who cares</p>
+                        <p style="color: #274299"><span style="color: #86d321">Nobody can take</span> better care of you <span style="color: #86d321">than a person who</span> loves you. <br>
+                            <span style="color: #86d321">At</span> Health Aide <span style="color: #86d321">Inc. we make sure you are taken care of by someone who cares</span></p>
 <!--                        <a href="#anchor" class="boxed-btn3">Check Our Services</a>-->
                     </div>
                 </div>
@@ -64,12 +63,12 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6">
-                <video style="width: 100%" poster="/web/img/video/video_preview.jpg" controls=""> <source src="/img/video/video.mp4" type="video/mp4"> </video>
+                <video style="width: 100%" poster="/web/img/video/video_preview.jpg" controls=""> <source src="/web/img/video/video.mp4" type="video/mp4"> </video>
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="welcome_docmed_info">
                     <!--                        <h2>What is CDPAP?</h2>-->
-                    <h3>What is CDPAP?</h3>
+                    <h3 style="color: #86d321">What is <span style="color: #274299">CDPAP</span>?</h3>
                     <p>Health Aide inc. Is a New York Department of Health Contracted and Insured provider of the Consumer Directed Personal Assistance Program (CDPAP).
                         We are A Fiscal Intermediary-CDPAP Agency which allows Medicaid Consumers the ability to hire their own Caregiver, including family and friends.</p>
                     <!--                        <ul>-->
@@ -92,7 +91,7 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
             <div class="col-xl-12 col-lg-12">
                 <div class="welcome_docmed_info">
                     <!--<h2>What is CDPAP?</h2>-->
-                    <h3>Wondering who you can hire as a caregiver?</h3>
+                    <h3 style="color: #274299">Wondering who you can hire as a <span style="color: #86d321">caregiver</span>?</h3>
                     <ul>
                         <li style="color: #86d321"> <i class="flaticon-correct"></i> Child </li>
                         <li style="color: #86d321"> <i class="flaticon-correct"></i> Relative</li>
@@ -117,7 +116,10 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
             <div class="col-xl-12 col-lg-12">
                 <div class="welcome_docmed_info">
                     <!--<h2>What is CDPAP?</h2>-->
-                    <h3>Maria needs someone to</h3>
+                    <h3 style="color: #274299">Maria needs someone to
+                        <span style="color: #86d321">cook</span>,
+                        <span style="color: #86d321">clean</span> and
+                        <span style="color: #86d321">shop.</span> She needs someone to:</h3>
                     <ul>
                         <li> <i class="flaticon-correct"></i> Manage her bills  </li>
                         <li> <i class="flaticon-correct"></i> Monitor her medications </li>
@@ -127,9 +129,10 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
                         <li> <i class="flaticon-correct"></i> Do her laundry </li>
                         <li> <i class="flaticon-correct"></i> Help with housekeeping </li>
                     </ul>
-                    <h4>She needs a kind person to help her bathe, groom, and get around <br>
-                        SHE GOT AN AGENCY AIDE FOR A WHILE BUT IT DID NOT WORK OUT.
-                    </h4>
+                    <h3 style="color: #274299">She needs a kind person to help her bathe, groom, and get around <br><br>
+                        SHE GOT AN AGENCY AIDE FOR A WHILE BUT <br>b
+                        <span style="color: #274299">IT DID NOT WORK OUT.</span>
+                    </h3>
                 </div>
             </div>
         </div>
@@ -144,10 +147,10 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
             <div class="col-xl-12 col-lg-12">
                 <div class="welcome_docmed_info">
                     <!--<h2>What is CDPAP?</h2>-->
-                    <h3>What if</h3>
+                    <h3 align="center" style="color: #86d321">What if</h3>
                     <p>What if you could choose your loved one to take care of you? What if he/she could make sure you are taking your medication, following your diet, and going to medical appointments? </p>
                     <p>What if we could help you better your quality of life?</p>
-                    <p>With CDPAP from Health Aide Inc. we will build a bridge between their love and good intentions, and your need for a Caregiver.</p>
+                    <p style="color: #86d321">With CDPAP from Health Aide Inc. we will build a bridge between their love and good intentions, and your need for a Caregiver.</p>
                     <!--                        <ul>-->
                     <!--                            <li> <i class="flaticon-right"></i> Apartments frequently or motionless. </li>-->
                     <!--                            <li> <i class="flaticon-right"></i> Duis aute irure dolor in reprehenderit in voluptate.</li>-->
@@ -167,7 +170,7 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
             <div class="col-xl-12 col-lg-12">
                 <div class="welcome_docmed_info">
                     <!--<h2>What is CDPAP?</h2>-->
-                    <h3>Am I Eligible?</h3>
+                    <h3 align="center" style="color: #274299">Am I Eligible?</h3>
                     <p class="font-size-20pt">To participate in the Consumer Directed Personal Assistance Program, the consumer must be:</p>
                     <ul class="unordered-list">
                         <li>Eligible for Medicaid</li>

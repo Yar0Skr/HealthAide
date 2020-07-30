@@ -205,7 +205,7 @@ cdpap home care"/>
                 </div>
                 <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-3">
                     <div class="footer_widget">
-                        <h3 class="footer_title">
+                        <h3 class="footer_title" style="color: #86d321">
                             INFORMATION
                         </h3>
                         <ul>
@@ -222,7 +222,7 @@ cdpap home care"/>
                 </div>
                 <div class="col-xl-4 col-md-6 col-lg-3">
                     <div class="footer_widget">
-                        <h3 class="footer_title">
+                        <h3 class="footer_title" style="color: #86d321">
                             Our Vision
                         </h3>
                         <p>
@@ -233,25 +233,11 @@ cdpap home care"/>
             </div>
         </div>
     </div>
-    <div class="copy-right_text">
-        <div class="container">
-            <div class="footer_border"></div>
-            <div class="row">
-                <div class="col-xl-12">
-                    <p class="copy_right text-center">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
 </footer>
 <!-- footer end  -->
 <!-- link that opens popup -->
 
-<script type=text/javascript>
+<script type='text/javascript'>
 
 </script>
 <link href='/web/widget.css' rel=stylesheet>
