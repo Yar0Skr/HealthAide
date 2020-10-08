@@ -63,7 +63,7 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
     <div class="container">
         <div class="row">
             <div class="col-xl-6 col-lg-6">
-                <video style="width: 100%" poster="/web/img/video/video_preview.jpg" controls=""> <source src="/web/img/video/video.mp4" type="video/mp4"> </video>
+                <video style="width: 100%" poster="img/video/video_preview.jpg" controls=""> <source src="img/video/video.mp4" type="video/mp4"> </video>
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="welcome_docmed_info">
@@ -202,7 +202,7 @@ $this->title = 'Health Aide Inc. CDPAP | A Home Care Agency';
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_department">
                         <div class="department_thumb">
-                            <img src="/web/uploads/blog/images/<?= $blog->image ?>" alt="">
+                            <img src="uploads/blog/images/<?= $blog->image ?>" alt="">
                         </div>
                         <div class="department_content">
                             <h3><?= $blog->header ?></h3>

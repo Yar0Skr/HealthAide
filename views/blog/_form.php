@@ -35,7 +35,7 @@ use yii\widgets\ActiveForm;
             'options' => ['multiple'=>false, 'accept' => 'image/*'],
             'pluginOptions'=>[
                 'initialPreview'=>[
-                    $model->image ? '/web/uploads/info/images/'.$model->image : null,
+                    $model->image ? 'uploads/info/images/'.$model->image : null,
                 ],
                 'initialPreviewShowDelete' => false,
                 'initialPreviewAsData'=>true,

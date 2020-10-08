@@ -2,13 +2,10 @@
 
 return [
     'class' => 'yii\db\Connection',
-//    'dsn' => 'mysql:host=127.0.0.1;dbname=healthaide',
-//    'username' => 'root',
-//    'password' => '',
-    'dsn' => 'mysql:host=34.230.164.188;dbname=heroku_9c5b35dbae65fcb',
-    'username' => 'b82a173453f853',
-    'password' => 'e4cebff2',
-    'charset' => 'utf8',
+    'dsn' => 'mysql:host=127.0.0.1;dbname=healthaide',
+    'username' => 'root',
+    'password' => '',
+
 
     // Schema cache options (for production environment)
     //'enableSchemaCache' => true,

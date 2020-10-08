@@ -50,16 +50,16 @@ $this->title = 'Health Aide Inc - A CDPAP Home Care Agency - In Home Health Care
                 It is your right to make advance directives as you wish. It is most important for you to document how you would like your care to continue if you are no longer able to communicate with providers in an informed way due to illness or injury. Please contact your Health Aide Inc. CDPAP Care Manager for assistance in completing these documents.</h6><br/>
 
             <h4 class="clr-b">New York Living Will Forms:</h4><br/>
-            <h6>• <a href='/web/files/Livingwill.pdf'>Living Will</a></h6><br/>
+            <h6>• <a href='files/Livingwill.pdf'>Living Will</a></h6><br/>
 
             <h4 class="clr-b">New York Health Care Proxy Forms:</h4><br/>
-            <h6>• <a href='/web/files/English.pdf'>English</a><br/>
-                    • <a href='/web/files/Spanish.pdf'>Spanish</a><br/>
-                        • <a href='/web/files/Chinese.pdf'>Chinese</a><br/>
-                            • <a href='/web/files/Russian.pdf'>Russian</a><br/>
-                                • <a href='/web/files/Korean.pdf'>Korean</a><br/>
-                                    • <a href='/web/files/Italian.pdf'>Italian</a><br/>
-                                        • <a href='/web/files/Haitian-Creole.pdf'>Haitian Creole</a><br/>
+            <h6>• <a href='files/English.pdf'>English</a><br/>
+                    • <a href='files/Spanish.pdf'>Spanish</a><br/>
+                        • <a href='files/Chinese.pdf'>Chinese</a><br/>
+                            • <a href='files/Russian.pdf'>Russian</a><br/>
+                                • <a href='files/Korean.pdf'>Korean</a><br/>
+                                    • <a href='files/Italian.pdf'>Italian</a><br/>
+                                        • <a href='files/Haitian-Creole.pdf'>Haitian Creole</a><br/>
                                             <br/>
                                             Visit the <a href='http://www.health.ny.gov/professionals/patients/health_care_proxy/index.htm'>New York State Department of Health website<a/> for more information on patient rights and advance care planning resources.</h6><br/>
 
@@ -106,7 +106,7 @@ $this->title = 'Health Aide Inc - A CDPAP Home Care Agency - In Home Health Care
                             <h6><a href='http://www.diabetes.org/'> American Diabetes Association</a></h6><br/>
                             <br/>
                             <h4 class="clr-b"><a name="Emergency Planning">Emergency Plan Workbook<a href="#CR"> &uarr; </a></h4>
-                            <h6><a href='/web/files/myemergencyplan_english.pdf'> Click here to download a PDF.</a><br/>
+                            <h6><a href='files/myemergencyplan_english.pdf'> Click here to download a PDF.</a><br/>
                                     <br/>
                                     This workbook will help you create an emergency plan and have important information ready to use. Fill in the fields in the workbook and save it or print it. Store it in a safe, accessible place.</h6><br/>
                             <br/>
@@ -135,7 +135,7 @@ $this->title = 'Health Aide Inc - A CDPAP Home Care Agency - In Home Health Care
                                     • Proof of where you live, like a rent receipt, landlord statement, mortgage statement or mailing envelope you received recently<br/>
                                     • Insurance benefit card or the policy (if you have any other health insurance)<br/>
                                     • Medicare Benefit Card (the red, white and blue card)<br/>
-                                    If you would like assistance with completing a <a href='/web/files/doh-4220-1.pdf'>Medicaid application (form)</a>, please call Health Aide Inc. CDPAP Member Services at 347.620.6226<br/>
+                                    If you would like assistance with completing a <a href='files/doh-4220-1.pdf'>Medicaid application (form)</a>, please call Health Aide Inc. CDPAP Member Services at 347.620.6226<br/>
                                         <br/>
                                         <h6 class="clr-b">Suffolk County Department of Social Services (SDSS)</h6>
                                         Call – 1-631-854-0555, 1-631-852-3570 or 1-631-852-3571 East Suffolk<br/>
